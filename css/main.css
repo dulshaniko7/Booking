@@ -1,0 +1,25 @@
+.img1{
+
+    filter: brightness(80%);
+}
+
+.slider .btn{
+    margin-top: 1rem;
+}
+
+.autocomplete-content{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+
+}
+
+.fab{
+    margin: 2rem;
+}
+
+@media (max-width: 700px) {
+    .photo-slide{
+       max-height: 500px;
+    }
+}
